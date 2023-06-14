@@ -1,4 +1,4 @@
-public class Lehrer extends Person{
+public class Lehrer{
 
     //todo
     //Define Lehrer class attributes specified in sketch
